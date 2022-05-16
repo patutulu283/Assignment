@@ -1,0 +1,18 @@
+.Logo{
+    max-width: 135px;
+    padding-top: -20px;
+    bottom: -10px;
+    max-height: 80px;
+}
+
+.row{
+    min-height: 80px !important;
+    max-height: 90px;
+    margin-bottom: auto;
+}
+
+.col{
+    align-self: center;
+    min-height: 30px;
+    max-height: 50px;
+}
