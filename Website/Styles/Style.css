@@ -1,14 +1,14 @@
 .Logo{
     max-width: 135px;
-    padding-top: -20px;
-    bottom: -10px;
+    padding-top: 0px;
+    bottom: 0px;
     max-height: 80px;
 }
 
-.row{
+.navrow{
     min-height: 80px !important;
     max-height: 90px;
-    margin-bottom: auto;
+    margin: auto;
 }
 
 .col{
