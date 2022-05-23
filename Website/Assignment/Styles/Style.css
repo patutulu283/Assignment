@@ -1,0 +1,67 @@
+.Logo{
+    max-width: 135px;
+    padding-top: 0px;
+    bottom: 0px;
+    max-height: 80px;
+}
+
+.navrow{
+    min-height: 80px !important;
+    max-height: 90px;
+    margin: auto;
+}
+
+.col{
+    align-self: center;
+    min-height: 30px;
+    max-height: 50px;
+}
+
+.welcome{
+    padding-top: 0px;
+    margin-top: -25px;
+    height: 350px;
+}
+
+.h2{
+    margin-top: 30px;
+    font-family: Yokohama ;
+    font-size: 70px;
+}
+
+.buttonLink {
+    text-decoration: none;
+    background-color: #c18ea6;
+    color: #fef0e4;
+    border: 1px #92697c solid;
+    padding: 10px;
+    display: center;
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Montserrat-Medium;
+}
+
+.welcomeDes{
+    font-family: Montserrat-Medium;
+}
+
+@font-face {
+    font-family: Yokohama ; 
+    src: url("fonts/Yokohama.ttf");
+  }
+
+  @font-face {
+      font-family: Montserrat-BoldItalic ;
+      src: url("fonts/Montserrat-BoldItalic.ttf");
+  }
+
+  @font-face {
+    font-family: Montserrat-Light ;
+    src: url("fonts/Montserrat-Light.ttf");
+} 
+
+@font-face {
+    font-family: Montserrat-Medium ;
+    src: url("fonts/Montserrat-Medium.ttf");
+} 
