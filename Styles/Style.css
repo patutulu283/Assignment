@@ -40,7 +40,6 @@
     background-color: #C39E9E;
     color: #fef0e4;
     padding: 10px;
-    display: center;
     width: 200px;
     border-radius: 15px;
     text-align: center;
@@ -466,6 +465,6 @@
 .bronze2{
     max-width: 450px;
     max-height: 780px;
-    margin-top: 70 px;
+    margin-top: 70px;
     margin-left: 10px;
 }
